@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Controller.srcs/sources_1/new/Controller.v" \
+"../../../../Controller.srcs/sim_1/new/ControlTestbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

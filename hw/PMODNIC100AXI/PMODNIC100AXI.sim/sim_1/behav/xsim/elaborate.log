@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 1590908830314c3f90973de103fe0fea --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot PModTest_behav xil_defaultlib.PModTest xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.SPI
+Compiling module xil_defaultlib.Controller_default
+Compiling module xil_defaultlib.PMODNIC100
+Compiling module xil_defaultlib.PModTest
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot PModTest_behav

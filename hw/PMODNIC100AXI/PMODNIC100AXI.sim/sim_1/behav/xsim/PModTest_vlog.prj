@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../PMODNIC100AXI.srcs/sources_1/new/Controller.v" \
+"../../../../PMODNIC100AXI.srcs/sources_1/new/PMODNIC100.v" \
+"../../../../PMODNIC100AXI.srcs/sources_1/new/SPI.v" \
+"../../../../PMODNIC100AXI.srcs/sim_1/new/PModTest.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

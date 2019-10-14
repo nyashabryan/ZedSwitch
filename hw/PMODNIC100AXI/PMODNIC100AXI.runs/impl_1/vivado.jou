@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Oct 13 20:32:02 2019
+# Process ID: 27681
+# Current directory: /home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.runs/impl_1
+# Command line: vivado -log PMODNIC100.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PMODNIC100.tcl -notrace
+# Log file: /home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.runs/impl_1/PMODNIC100.vdi
+# Journal file: /home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source PMODNIC100.tcl -notrace

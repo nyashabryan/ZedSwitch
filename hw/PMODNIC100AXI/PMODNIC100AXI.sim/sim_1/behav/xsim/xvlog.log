@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/PMODNIC100.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PMODNIC100
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/SPI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SPI
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sim_1/new/PModTest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PModTest

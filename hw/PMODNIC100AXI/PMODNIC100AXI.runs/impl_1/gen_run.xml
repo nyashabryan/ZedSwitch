@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1570991428">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="RDI-RDI" Name="PMODNIC100.vdi"/>
+  <File Type="BG-DRC" Name="PMODNIC100.drc"/>
+  <File Type="BG-BGN" Name="PMODNIC100.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="PMODNIC100.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="PMODNIC100.ltx"/>
+  <File Type="BITSTR-MMI" Name="PMODNIC100.mmi"/>
+  <File Type="BITSTR-BMM" Name="PMODNIC100_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="PMODNIC100.nky"/>
+  <File Type="BITSTR-RBT" Name="PMODNIC100.rbt"/>
+  <File Type="BITSTR-MSK" Name="PMODNIC100.msk"/>
+  <File Type="BG-BIN" Name="PMODNIC100.bin"/>
+  <File Type="BG-BIT" Name="PMODNIC100.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="PMODNIC100_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="PMODNIC100_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="PMODNIC100_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="PMODNIC100_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="PMODNIC100_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="PMODNIC100_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="PMODNIC100_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="PMODNIC100_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="PMODNIC100_bus_skew_routed.rpx"/>
+  <File Type="INIT-TIMING" Name="PMODNIC100_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="PMODNIC100_opt.dcp"/>
+  <File Type="OPT-DRC" Name="PMODNIC100_drc_opted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="PMODNIC100_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="PMODNIC100_methodology_drc_opted.rpt"/>
+  <File Type="PLACE-UTIL" Name="PMODNIC100_utilization_placed.rpt"/>
+  <File Type="OPT-HWDEF" Name="PMODNIC100.hwdef"/>
+  <File Type="PHYSOPT-TIMING" Name="PMODNIC100_timing_summary_physopted.rpt"/>
+  <File Type="PA-TCL" Name="PMODNIC100.tcl"/>
+  <File Type="OPT-TIMING" Name="PMODNIC100_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="PMODNIC100_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="PMODNIC100_drc_pwropted.rpt"/>
+  <File Type="REPORTS-TCL" Name="PMODNIC100_reports.tcl"/>
+  <File Type="PWROPT-TIMING" Name="PMODNIC100_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="PMODNIC100_placed.dcp"/>
+  <File Type="PLACE-IO" Name="PMODNIC100_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="PMODNIC100_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="PMODNIC100_utilization_placed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="PMODNIC100_methodology_drc_routed.rpt"/>
+  <File Type="PLACE-CTRL" Name="PMODNIC100_control_sets_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="PMODNIC100_methodology_drc_routed.pb"/>
+  <File Type="PLACE-SIMILARITY" Name="PMODNIC100_incremental_reuse_placed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="PMODNIC100_drc_routed.rpx"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="PMODNIC100_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="PMODNIC100_methodology_drc_routed.rpx"/>
+  <File Type="PLACE-TIMING" Name="PMODNIC100_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="PMODNIC100_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="PMODNIC100_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="PMODNIC100_drc_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="PMODNIC100_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="PMODNIC100_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="PMODNIC100_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="PMODNIC100_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="PMODNIC100_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="PMODNIC100_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="PMODNIC100_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="PMODNIC100_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="PMODNIC100_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="PMODNIC100_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="PMODNIC100_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="PMODNIC100_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="PMODNIC100_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="PMODNIC100_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="PMODNIC100_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="PMODNIC100_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="PMODNIC100_bus_skew_routed.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Controller.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SPI.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PMODNIC100.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="PMODNIC100"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/Impl.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/Impl.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

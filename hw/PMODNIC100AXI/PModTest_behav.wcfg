@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="PModTest_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="PModTest" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="4635000001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="218"></NameColumnWidth>
+      <ValueColumnWidth column_width="130"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="74" />
+   <wave_markers>
+      <marker label="" time="9945000000" />
+      <marker label="" time="115000000" />
+   </wave_markers>
+   <wvobject type="logic" fp_name="/PModTest/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/clk_line_rst">
+      <obj_property name="ElementShortName">clk_line_rst</obj_property>
+      <obj_property name="ObjectShortName">clk_line_rst</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmod_mosi">
+      <obj_property name="ElementShortName">pmod_mosi</obj_property>
+      <obj_property name="ObjectShortName">pmod_mosi</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmod_ss">
+      <obj_property name="ElementShortName">pmod_ss</obj_property>
+      <obj_property name="ObjectShortName">pmod_ss</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/axi_clk">
+      <obj_property name="ElementShortName">axi_clk</obj_property>
+      <obj_property name="ObjectShortName">axi_clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/axi_reset">
+      <obj_property name="ElementShortName">axi_reset</obj_property>
+      <obj_property name="ObjectShortName">axi_reset</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/awvalid">
+      <obj_property name="ElementShortName">awvalid</obj_property>
+      <obj_property name="ObjectShortName">awvalid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/awready">
+      <obj_property name="ElementShortName">awready</obj_property>
+      <obj_property name="ObjectShortName">awready</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/awaddr">
+      <obj_property name="ElementShortName">awaddr[17:0]</obj_property>
+      <obj_property name="ObjectShortName">awaddr[17:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/wvalid">
+      <obj_property name="ElementShortName">wvalid</obj_property>
+      <obj_property name="ObjectShortName">wvalid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/wready">
+      <obj_property name="ElementShortName">wready</obj_property>
+      <obj_property name="ObjectShortName">wready</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/wdata">
+      <obj_property name="ElementShortName">wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/clk_line">
+      <obj_property name="ElementShortName">clk_line[0:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_line[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/clk_line_rst">
+      <obj_property name="ElementShortName">clk_line_rst[0:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_line_rst[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/PMOD_SCLK">
+      <obj_property name="ElementShortName">PMOD_SCLK[0:0]</obj_property>
+      <obj_property name="ObjectShortName">PMOD_SCLK[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/PMOD_MOSI">
+      <obj_property name="ElementShortName">PMOD_MOSI[0:0]</obj_property>
+      <obj_property name="ObjectShortName">PMOD_MOSI[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/PMOD_MISO">
+      <obj_property name="ElementShortName">PMOD_MISO[0:0]</obj_property>
+      <obj_property name="ObjectShortName">PMOD_MISO[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/PMOD_SS">
+      <obj_property name="ElementShortName">PMOD_SS[0:0]</obj_property>
+      <obj_property name="ObjectShortName">PMOD_SS[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/IN_AXI_ACLK">
+      <obj_property name="ElementShortName">IN_AXI_ACLK</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_ACLK</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/IN_AXI_ARESETN">
+      <obj_property name="ElementShortName">IN_AXI_ARESETN</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_ARESETN</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/IN_AXI_AWVALID">
+      <obj_property name="ElementShortName">IN_AXI_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_AWVALID</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_AWREADY">
+      <obj_property name="ElementShortName">IN_AXI_AWREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_AWREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_AWADDR">
+      <obj_property name="ElementShortName">IN_AXI_AWADDR[17:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_AWADDR[17:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_AWPROT">
+      <obj_property name="ElementShortName">IN_AXI_AWPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_AWPROT[2:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/IN_AXI_WVALID">
+      <obj_property name="ElementShortName">IN_AXI_WVALID</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_WVALID</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_WREADY">
+      <obj_property name="ElementShortName">IN_AXI_WREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_WREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_WDATA">
+      <obj_property name="ElementShortName">IN_AXI_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_WSTRB">
+      <obj_property name="ElementShortName">IN_AXI_WSTRB[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_WSTRB[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_BREADY">
+      <obj_property name="ElementShortName">IN_AXI_BREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_BREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_BVALID">
+      <obj_property name="ElementShortName">IN_AXI_BVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_BVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_BRESP">
+      <obj_property name="ElementShortName">IN_AXI_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_ARREADY">
+      <obj_property name="ElementShortName">IN_AXI_ARREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_ARREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_ARVALID">
+      <obj_property name="ElementShortName">IN_AXI_ARVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_ARVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_ARADDR">
+      <obj_property name="ElementShortName">IN_AXI_ARADDR[17:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_ARADDR[17:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_ARPROT">
+      <obj_property name="ElementShortName">IN_AXI_ARPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_ARPROT[2:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_RREADY">
+      <obj_property name="ElementShortName">IN_AXI_RREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_RREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_RVALID">
+      <obj_property name="ElementShortName">IN_AXI_RVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_RVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_RDATA">
+      <obj_property name="ElementShortName">IN_AXI_RDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_RDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/IN_AXI_RRESP">
+      <obj_property name="ElementShortName">IN_AXI_RRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_AXI_RRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/pmod_miso">
+      <obj_property name="ElementShortName">pmod_miso</obj_property>
+      <obj_property name="ObjectShortName">pmod_miso</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/pmod_mosi">
+      <obj_property name="ElementShortName">pmod_mosi</obj_property>
+      <obj_property name="ObjectShortName">pmod_mosi</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/pmod_sclk">
+      <obj_property name="ElementShortName">pmod_sclk</obj_property>
+      <obj_property name="ObjectShortName">pmod_sclk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/pmod_ss">
+      <obj_property name="ElementShortName">pmod_ss</obj_property>
+      <obj_property name="ObjectShortName">pmod_ss</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/wr_valid">
+      <obj_property name="ElementShortName">wr_valid</obj_property>
+      <obj_property name="ObjectShortName">wr_valid</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/wr_data">
+      <obj_property name="ElementShortName">wr_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/wr_done">
+      <obj_property name="ElementShortName">wr_done</obj_property>
+      <obj_property name="ObjectShortName">wr_done</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/wr_got_byte">
+      <obj_property name="ElementShortName">wr_got_byte</obj_property>
+      <obj_property name="ObjectShortName">wr_got_byte</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/rd_valid">
+      <obj_property name="ElementShortName">rd_valid</obj_property>
+      <obj_property name="ObjectShortName">rd_valid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/rd_stop">
+      <obj_property name="ElementShortName">rd_stop</obj_property>
+      <obj_property name="ObjectShortName">rd_stop</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rd_data">
+      <obj_property name="ElementShortName">rd_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/DATA">
+      <obj_property name="ElementShortName">DATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/PModTest/pmodnic/busy">
+      <obj_property name="ElementShortName">busy</obj_property>
+      <obj_property name="ObjectShortName">busy</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/has_data">
+      <obj_property name="ElementShortName">has_data[0:0]</obj_property>
+      <obj_property name="ObjectShortName">has_data[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_last">
+      <obj_property name="ElementShortName">rx_last[0:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_last[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/state">
+      <obj_property name="ElementShortName">state[31:0]</obj_property>
+      <obj_property name="ObjectShortName">state[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_state">
+      <obj_property name="ElementShortName">rx_state[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_state[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/packet_length">
+      <obj_property name="ElementShortName">packet_length[31:0]</obj_property>
+      <obj_property name="ObjectShortName">packet_length[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/data_index">
+      <obj_property name="ElementShortName">data_index[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_index[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/i">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/STREAM_DATA_WIDTH">
+      <obj_property name="ElementShortName">STREAM_DATA_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">STREAM_DATA_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/MAX_PACKET_SIZE">
+      <obj_property name="ElementShortName">MAX_PACKET_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MAX_PACKET_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/BUFFER_SIZE">
+      <obj_property name="ElementShortName">BUFFER_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BUFFER_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/METADATA_WIDTH">
+      <obj_property name="ElementShortName">METADATA_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">METADATA_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/CS_AXI_ADDR_WIDTH">
+      <obj_property name="ElementShortName">CS_AXI_ADDR_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CS_AXI_ADDR_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/state_idle">
+      <obj_property name="ElementShortName">state_idle[31:0]</obj_property>
+      <obj_property name="ObjectShortName">state_idle[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/state_rx">
+      <obj_property name="ElementShortName">state_rx[31:0]</obj_property>
+      <obj_property name="ObjectShortName">state_rx[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/state_tt">
+      <obj_property name="ElementShortName">state_tt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">state_tt[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/state_tx">
+      <obj_property name="ElementShortName">state_tx[31:0]</obj_property>
+      <obj_property name="ObjectShortName">state_tx[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_state_00">
+      <obj_property name="ElementShortName">rx_state_00[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_state_00[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_state_0">
+      <obj_property name="ElementShortName">rx_state_0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_state_0[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_state_1">
+      <obj_property name="ElementShortName">rx_state_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_state_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_state_2">
+      <obj_property name="ElementShortName">rx_state_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_state_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_state_3">
+      <obj_property name="ElementShortName">rx_state_3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_state_3[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/PModTest/pmodnic/rx_state_4">
+      <obj_property name="ElementShortName">rx_state_4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_state_4[31:0]</obj_property>
+   </wvobject>
+</wave_config>

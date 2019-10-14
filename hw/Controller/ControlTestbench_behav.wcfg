@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ControlTestbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ControlTestbench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="20311800000fs"></ZoomStartTime>
+      <ZoomEndTime time="20378500001fs"></ZoomEndTime>
+      <Cursor1Time time="20380000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="218"></NameColumnWidth>
+      <ValueColumnWidth column_width="130"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="77" />
+   <wave_markers>
+      <marker label="" time="20320000000" />
+   </wave_markers>
+   <wvobject type="logic" fp_name="/ControlTestbench/control/clk_line">
+      <obj_property name="ElementShortName">clk_line</obj_property>
+      <obj_property name="ObjectShortName">clk_line</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/control/clk_line_rst">
+      <obj_property name="ElementShortName">clk_line_rst</obj_property>
+      <obj_property name="ObjectShortName">clk_line_rst</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/S_AXI_TVALID">
+      <obj_property name="ElementShortName">S_AXI_TVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_TVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/S_AXI_TREADY">
+      <obj_property name="ElementShortName">S_AXI_TREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_TREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/S_AXI_TDATA">
+      <obj_property name="ElementShortName">S_AXI_TDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_TDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/S_AXI_TKEEP">
+      <obj_property name="ElementShortName">S_AXI_TKEEP[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_TKEEP[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/S_AXI_TLAST">
+      <obj_property name="ElementShortName">S_AXI_TLAST[0:0]</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_TLAST[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/metadata_valid">
+      <obj_property name="ElementShortName">metadata_valid[0:0]</obj_property>
+      <obj_property name="ObjectShortName">metadata_valid[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/metadata_data">
+      <obj_property name="ElementShortName">metadata_data[56:0]</obj_property>
+      <obj_property name="ObjectShortName">metadata_data[56:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/control/IN_STATE">
+      <obj_property name="ElementShortName">IN_STATE</obj_property>
+      <obj_property name="ObjectShortName">IN_STATE</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_STATE">
+      <obj_property name="ElementShortName">OUT_STATE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_STATE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/TX_STATE">
+      <obj_property name="ElementShortName">TX_STATE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">TX_STATE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/head">
+      <obj_property name="ElementShortName">head[15:0]</obj_property>
+      <obj_property name="ObjectShortName">head[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/tail">
+      <obj_property name="ElementShortName">tail[15:0]</obj_property>
+      <obj_property name="ObjectShortName">tail[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/metadata_data">
+      <obj_property name="ElementShortName">metadata_data[19:0]</obj_property>
+      <obj_property name="ObjectShortName">metadata_data[19:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/control/OUT_AXI_ACLK">
+      <obj_property name="ElementShortName">OUT_AXI_ACLK</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_ACLK</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/control/OUT_AXI_ARESETN">
+      <obj_property name="ElementShortName">OUT_AXI_ARESETN</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_ARESETN</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_AWVALID">
+      <obj_property name="ElementShortName">OUT_AXI_AWVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_AWVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_AWREADY">
+      <obj_property name="ElementShortName">OUT_AXI_AWREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_AWREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_AWADDR">
+      <obj_property name="ElementShortName">OUT_AXI_AWADDR[16:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_AWADDR[16:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_AWPROT">
+      <obj_property name="ElementShortName">OUT_AXI_AWPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_AWPROT[2:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_WVALID">
+      <obj_property name="ElementShortName">OUT_AXI_WVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_WVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_WREADY">
+      <obj_property name="ElementShortName">OUT_AXI_WREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_WREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_WDATA">
+      <obj_property name="ElementShortName">OUT_AXI_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_WSTRB">
+      <obj_property name="ElementShortName">OUT_AXI_WSTRB[1:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_WSTRB[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_BREADY">
+      <obj_property name="ElementShortName">OUT_AXI_BREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_BREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_BVALID">
+      <obj_property name="ElementShortName">OUT_AXI_BVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_BVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_BRESP">
+      <obj_property name="ElementShortName">OUT_AXI_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_ARREADY">
+      <obj_property name="ElementShortName">OUT_AXI_ARREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_ARREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_ARVALID">
+      <obj_property name="ElementShortName">OUT_AXI_ARVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_ARVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_ARADDR">
+      <obj_property name="ElementShortName">OUT_AXI_ARADDR[16:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_ARADDR[16:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_ARPROT">
+      <obj_property name="ElementShortName">OUT_AXI_ARPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_ARPROT[2:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_RREADY">
+      <obj_property name="ElementShortName">OUT_AXI_RREADY[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_RREADY[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_RVALID">
+      <obj_property name="ElementShortName">OUT_AXI_RVALID[0:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_RVALID[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_RDATA">
+      <obj_property name="ElementShortName">OUT_AXI_RDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_RDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_AXI_RRESP">
+      <obj_property name="ElementShortName">OUT_AXI_RRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AXI_RRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/tail">
+      <obj_property name="ElementShortName">tail[15:0]</obj_property>
+      <obj_property name="ObjectShortName">tail[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/head">
+      <obj_property name="ElementShortName">head[15:0]</obj_property>
+      <obj_property name="ObjectShortName">head[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/CONTROLRAM">
+      <obj_property name="ElementShortName">CONTROLRAM[127:0][56:0]</obj_property>
+      <obj_property name="ObjectShortName">CONTROLRAM[127:0][56:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/rx_data_index">
+      <obj_property name="ElementShortName">rx_data_index[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_data_index[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/tx_data_index">
+      <obj_property name="ElementShortName">tx_data_index[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_data_index[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/i">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/j">
+      <obj_property name="ElementShortName">j[5:0]</obj_property>
+      <obj_property name="ObjectShortName">j[5:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/STREAM_DATA_WIDTH">
+      <obj_property name="ElementShortName">STREAM_DATA_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">STREAM_DATA_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/MAX_PACKET_SIZE">
+      <obj_property name="ElementShortName">MAX_PACKET_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MAX_PACKET_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/BUFFER_SIZE">
+      <obj_property name="ElementShortName">BUFFER_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BUFFER_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/METADATA_WIDTH">
+      <obj_property name="ElementShortName">METADATA_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">METADATA_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/CS_AXI_ADDR_WIDTH">
+      <obj_property name="ElementShortName">CS_AXI_ADDR_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CS_AXI_ADDR_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/EGRESSPORT_1">
+      <obj_property name="ElementShortName">EGRESSPORT_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EGRESSPORT_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/EGRESSPORT_2">
+      <obj_property name="ElementShortName">EGRESSPORT_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EGRESSPORT_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/EGRESSPORT_3">
+      <obj_property name="ElementShortName">EGRESSPORT_3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EGRESSPORT_3[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/EGRESSPORT_4">
+      <obj_property name="ElementShortName">EGRESSPORT_4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EGRESSPORT_4[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/EGRESSDROP">
+      <obj_property name="ElementShortName">EGRESSDROP[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EGRESSDROP[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/IN_STATE_IDLE">
+      <obj_property name="ElementShortName">IN_STATE_IDLE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_STATE_IDLE[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/IN_STATE_RX">
+      <obj_property name="ElementShortName">IN_STATE_RX[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_STATE_RX[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/IN_STATE_DROP">
+      <obj_property name="ElementShortName">IN_STATE_DROP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_STATE_DROP[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_STATE_IDLE">
+      <obj_property name="ElementShortName">OUT_STATE_IDLE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_STATE_IDLE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/OUT_STATE_TX">
+      <obj_property name="ElementShortName">OUT_STATE_TX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_STATE_TX[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/TX_STATE_0">
+      <obj_property name="ElementShortName">TX_STATE_0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">TX_STATE_0[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/TX_STATE_1">
+      <obj_property name="ElementShortName">TX_STATE_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">TX_STATE_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/TX_STATE_2">
+      <obj_property name="ElementShortName">TX_STATE_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">TX_STATE_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/TX_STATE_3">
+      <obj_property name="ElementShortName">TX_STATE_3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">TX_STATE_3[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/TX_STATE_4">
+      <obj_property name="ElementShortName">TX_STATE_4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">TX_STATE_4[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/control/TX_STATE_5">
+      <obj_property name="ElementShortName">TX_STATE_5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">TX_STATE_5[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/clk_line">
+      <obj_property name="ElementShortName">clk_line</obj_property>
+      <obj_property name="ObjectShortName">clk_line</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/clk_line_rst">
+      <obj_property name="ElementShortName">clk_line_rst</obj_property>
+      <obj_property name="ObjectShortName">clk_line_rst</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/s_axi_tvalid">
+      <obj_property name="ElementShortName">s_axi_tvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axi_tvalid</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/s_axi_data">
+      <obj_property name="ElementShortName">s_axi_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/s_axi_tkeep">
+      <obj_property name="ElementShortName">s_axi_tkeep[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_tkeep[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/s_axi_tlast">
+      <obj_property name="ElementShortName">s_axi_tlast</obj_property>
+      <obj_property name="ObjectShortName">s_axi_tlast</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/s_axi_tready">
+      <obj_property name="ElementShortName">s_axi_tready</obj_property>
+      <obj_property name="ObjectShortName">s_axi_tready</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/metadata_valid">
+      <obj_property name="ElementShortName">metadata_valid</obj_property>
+      <obj_property name="ObjectShortName">metadata_valid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/out_axi_aclk">
+      <obj_property name="ElementShortName">out_axi_aclk</obj_property>
+      <obj_property name="ObjectShortName">out_axi_aclk</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/out_axi_awready">
+      <obj_property name="ElementShortName">out_axi_awready[0:0]</obj_property>
+      <obj_property name="ObjectShortName">out_axi_awready[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ControlTestbench/out_axi_wready">
+      <obj_property name="ElementShortName">out_axi_wready</obj_property>
+      <obj_property name="ObjectShortName">out_axi_wready</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/out_axi_wdata">
+      <obj_property name="ElementShortName">out_axi_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_axi_wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ControlTestbench/out_axi_awaddr">
+      <obj_property name="ElementShortName">out_axi_awaddr[16:0]</obj_property>
+      <obj_property name="ObjectShortName">out_axi_awaddr[16:0]</obj_property>
+   </wvobject>
+</wave_config>

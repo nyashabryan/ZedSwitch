@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sim_1/new/PModTest.v,1570987964,verilog,,,,PModTest,,,,,,,,
+/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/Controller.v,1570990022,verilog,,/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/PMODNIC100.v,,Controller,,,,,,,,
+/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/PMODNIC100.v,1570986074,verilog,,/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/SPI.v,,PMODNIC100,,,,,,,,
+/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sources_1/new/SPI.v,1570986310,verilog,,/home/nyashabryan/VivadoProjects/PMODNIC100AXI/PMODNIC100AXI.srcs/sim_1/new/PModTest.v,,SPI,,,,,,,,
